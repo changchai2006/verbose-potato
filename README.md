@@ -1,1 +1,2 @@
-CHAI 2
+ชัย 2
+changchai2006
